@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<npc name="Drizzn" script="data/npc/scripts/quest16.lua" access="3">
+ 	<look type="75" head="116" body="59" legs="40" feet="116"/>
+</npc>

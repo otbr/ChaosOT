@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<monster name="Void Terror" level="20000" maglevel="300000" experience="800000000000" pushable="0" armor="53" defense="54" canpushitems="0" staticattack="50" changetarget="0" speed="680">
+	<health now="705000000" max="705000000"/>
+	<look type="18" head="20" body="30" legs="40" feet="50" corpse="2916"/>
+	<combat targetdistance="1" runonhealth="0"/>
+
+<attacks>
+	<attack type="melee" mindamage="50400000" maxdamage="50400000" cycleticks="0" probability="100"/>
+	<attack type="melee" mindamage="50400000" maxdamage="50400000" cycleticks="0" probability="100"/>
+<attack type="instant" name="ultimate exori" exhaustion="0" cycleticks="0" probability="100"/>
+<attack type="instant" name="exura vita" exhaustion="1000" cycleticks="4000" probability="100"/>
+
+</attacks>
+
+<defenses>
+	<defense immunity="fire"/>
+	
+	<defense immunity="drunk"/>
+</defenses>
+
+<loot>
+<item id="2281" chance="1000000"/>
+</loot>
+</monster>

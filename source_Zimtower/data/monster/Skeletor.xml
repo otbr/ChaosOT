@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<monster name="Skeletor" level="25000" maglevel="25000" experience="550000000" pushable="0" armor="15" defense="20" canpushitems="1" staticattack="50" changetarget="200" speed="254">
+	<health now="50000000" max="50000000"/>
+	<look type="33" head="20" body="30" legs="40" feet="50" corpse="2843"/>
+	<combat targetdistance="1" runonhealth="0"/>
+	<blood color="86" effect="9" splash="255"/>
+
+<attacks>
+	<attack type="melee" mindamage="2350000" maxdamage="2500000" probability="100"/>
+	<attack type="instant" name="sonar" exhaustion="1000" cycleticks="1000" probability="100"/>	
+	<attack type="instant" name="fire star" exhaustion="1000" cycleticks="1000" probability="100"/>
+
+</attacks>
+
+<defenses>
+	<defense immunity="poison"/>
+	<defense immunity="invisible"/>
+	<defense immunity="paralyze"/>
+	<defense immunity="fire"/>
+</defenses>
+
+
+<loot>
+
+<item id="2281" chance="3000"/>
+<item id="2276" chance="6000"/>
+<item id="2274" chance="9000"/>
+</loot>
+
+<voices>
+	<voice sentence="I am the second of four guardians of the abyss!"/>
+</voices>
+
+
+
+
+
+
+<loot>
+ 	
+</loot>
+</monster>

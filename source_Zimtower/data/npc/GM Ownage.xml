@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<npc name="GM Ownage" script="data/npc/scripts/GMbot.lua" access="5" lookdir="2">
+	<mana now="10000" max="10000"/>
+	<health now="20000" max="20000"/>
+	<look type="75" head="97" body="95" legs="114" feet="0"/>
+</npc>

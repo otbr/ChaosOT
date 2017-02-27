@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<monster name="Demonic Summoner" level="2000" maglevel="4000" experience="162000000" pushable="0" armor="106" defense="103" canpushitems="1" staticattack="50" changetarget="200" speed="320">
+	<health now="2500000" max="2500000"/>
+	<look type="63" head="20" body="30" legs="40" feet="50" corpse="2139"/>
+	<combat targetdistance="5" runonhealth="50"/>
+
+<attacks>
+	<attack type="rune" name="heavy magic missile" exhaustion="500" cycleticks="500" probability="70"/>
+	<attack type="rune" name="heavy magic missile" exhaustion="500" cycleticks="2000" probability="40"/>
+	<attack type="rune" name="arca sudden death" exhaustion="500" cycleticks="7000" probability="85"/>
+	<attack type="rune" name="arca sudden death" exhaustion="500" cycleticks="3500" probability="35"/>
+	<attack type="instant" name="exura vita" exhaustion="500" cycleticks="4000" probability="70"/>
+	
+</attacks>
+
+<defenses>
+	<defense immunity="invisible"/>
+	<defense immunity="fire"/>
+	
+	<defense immunity="energy"/>
+</defenses>
+
+<loot>
+ 	
+</loot>
+</monster>

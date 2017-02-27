@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<monster name="Ancient Kuliard" level="20000" maglevel="30000" experience="6500000000" pushable="0" armor="2" defense="2" canpushitems="1" staticattack="500" changetarget="0" speed="1260">
+	<health now="275000000" max="275000000"/>
+	<look type="48" head="20" body="30" legs="40" feet="50" corpse="3058"/>
+	<combat targetdistance="3" runonhealth="8500000"/>
+	<blood color="86" effect="9" splash="255"/>
+
+<attacks>
+	<attack type="distance" name="spear" mindamage="432682" maxdamage="845312" cyleticks="2750" probability="75"/>
+	<attack type="distance" name="spear" mindamage="1485321" maxdamage="5321987" cyleticks="6000" probability="100"/>
+	
+</attacks>
+
+<defenses>
+	
+	
+</defenses>
+
+<voices>
+	<voice sentence="PATHETIC MORTAL!"/>
+</voices>
+
+<loot>
+ 	
+</loot>
+</monster>

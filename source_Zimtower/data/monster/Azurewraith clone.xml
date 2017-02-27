@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<monster name="Azurewraith" level="300" maglevel="18" experience="902000000" pushable="0" armor="132" defense="133" canpushitems="1" staticattack="5000" changetarget="1000" speed="1512">
+	<health now="77500000" max="77500000"/>
+	   <look type="29" head="20" body="30" legs="40" feet="50" corpse="3128"/>
+	<combat targetdistance="1" runonhealth="0"/>
+      <blood color="30" effect="16" splash="4"/>
+
+<attacks>
+<attack type="melee" mindamage="50400000" maxdamage="50400000" cycleticks="0" probability="100"/>
+<attack type="melee" mindamage="70400000" maxdamage="70400000" cycleticks="0" probability="100"/>
+		
+</attacks>
+
+<defenses>
+	
+	<defense immunity="invisible"/>
+</defenses>
+
+ <loot>
+ 	<item id="2160" countmax="100" chance1="400" chancemax="0"/>
+</loot>
+
+<summons maxSummons="5">
+<summon name="Azurewraith clone" chance="50"/>
+ 
+</summons>
+
+</monster>

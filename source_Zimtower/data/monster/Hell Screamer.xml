@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<monster name="Hell screamer" level="2000" maglevel="3000" experience="3500000" pushable="1" armor="29" defense="33" canpushitems="1" staticattack="50" changetarget="200" speed="220">
+	<health now="1000000" max="1000000"/>
+	<look type="78" head="20" body="30" legs="40" feet="50" corpse="2153"/>
+	<combat targetdistance="1" runonhealth="200"/>
+
+<attacks>
+	
+	<attack type="instant" name="banshee_sonar" exhaustion="500" cycleticks="500" probability="70"/>
+	
+</attacks>
+
+<defenses>
+	<defense immunity="invisible"/>
+	<defense immunity="fire"/>
+	
+	<defense immunity="paralyze"/>
+</defenses>
+
+<voices>
+	<voice sentence="Dance for me your dance of death!"/>
+	<voice sentence="That's what I call easy, listening."/>
+	<voice sentence="Fell my gentle kiss of death."/>
+</voices>
+
+<loot>
+ 	
+</loot>
+</monster>

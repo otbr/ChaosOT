@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<npc name="GG Citizen" script="data/npc/scripts/GG_citizen.lua" access="3">
+	<look type="1442" head="0" body="0" legs="0" feet="0"/>
+</npc>

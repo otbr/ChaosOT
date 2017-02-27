@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<monster name="Flesh Fiend" level="1000" maglevel="1000" experience="30000000" pushable="0" armor="12" defense="140" canpushitems="1" staticattack="50" changetarget="200" speed="244">
+	<health now="4000000" max="4000000"/>
+	<look type="18" head="20" body="30" legs="40" feet="50" corpse="3113"/>
+	<combat targetdistance="1" runonhealth="0"/>
+
+<attacks>
+	<attack type="melee" maxdamage="60000"/>
+	<attack type="instant" name="fire star" exhaustion="1000" cycleticks="1000" probability="80"/>
+</attacks>
+
+<defenses>
+	<defense immunity="fire"/>
+	<defense immunity="invisible"/>
+</defenses>
+
+<loot>
+ 	<item id="2160" countmax="100" chance1="100000" chancemax="0"/>
+</loot>
+</monster>

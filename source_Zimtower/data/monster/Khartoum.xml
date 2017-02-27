@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<monster name="Khartoum" level="30000" maglevel="5000" experience="8700000" pushable="0" armor="9" defense="13" canpushitems="0" staticattack="50" changetarget="200" speed="400">
+	<health now="35000000" max="35000000"/>
+	<look type="130" head="0" body="109" legs="128" feet="114" corpse="2916"/>
+	<combat targetdistance="3" runonhealth="0"/>
+
+<attacks>
+
+<attack type="rune" name="quarksd" cycleticks="0" probability="100"/>
+
+<attack type="instant" name="love" exhaustion="0" cycleticks="0" probability="100"/>
+</attacks>
+
+<defenses>
+
+</defenses>
+
+<voices>
+	<voice sentence="ARGGHH"/>
+	<voice sentence="Die pathetic human"/>
+	<voice sentence="Burn your neck with the flick of a wrist"/>
+	<voice sentence="Just die!"/>
+</voices>
+
+ <loot>
+	<item id="2270" chance="1000000"/>
+ </loot>
+</monster>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<monster name="Haunted Dog" level="200000" maglevel="100000" experience="9500000" pushable="0" speed="214" armor="3" defense="5" canpushitems="1" staticattack="6000" changetarget="2000">
+	<health now="21500000" max="21500000"/>
+	<look type="32" head="20" body="30" legs="40" feet="50" corpse="2916"/>
+	<combat targetdistance="1" runonhealth="0"/>
+<attacks>
+	<attack type="melee" mindamage="54000" maxdamage="54000" cycleticks="0" probability="100"/>
+	<attack type="melee" mindamage="54000" maxdamage="84000" cycleticks="0" probability="100"/>
+	<attack type="melee" mindamage="54000" maxdamage="64000" cycleticks="0" probability="100"/>
+	<attack type="melee" mindamage="54000" maxdamage="124000" cycleticks="0" probability="100"/>
+        
+
+</attacks>
+
+<defenses>
+	<defense immunity="poison"/>
+</defenses>
+
+<voices>
+	<voice sentence="Huh! Huh! Huh!"/>
+	<voice sentence="Ahhuuaaa!"/>
+	<voice sentence="Eeeeek! Eeeeek"/>
+</voices>
+
+<loot>
+
+	<item id="2275" chance="1000000"/>
+
+</loot>
+
+</monster>

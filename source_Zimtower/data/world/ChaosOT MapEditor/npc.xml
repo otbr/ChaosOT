@@ -1,0 +1,433 @@
+<?xml version="1.0"?>
+
+
+<npclist>
+<npc name="Acc Maker" x="481" y="1045" z="7" dir="2"/>
+<npc name="Acc Maker" x="491" y="1045" z="7" dir="2"/>
+<npc name="Acc Maker" x="481" y="1054" z="7" dir="2"/>
+<npc name="Acc Maker" x="491" y="1054" z="7" dir="2"/>
+
+<npc name="Shanti" x="472" y="303" z="6" dir="0"/>
+<npc name="Shanti" x="455" y="145" z="6" dir="0"/>
+<npc name="Shanti" x="442" y="88" z="6" dir="0"/>
+<npc name="Shanti" x="502" y="75" z="6" dir="0"/>
+<npc name="Shanti" x="502" y="145" z="6" dir="0"/>
+<npc name="Shanti" x="147" y="190" z="7" dir="0"/>
+<npc name="Shanti" x="119" y="53" z="5" dir="0"/>
+<npc name="Shanti" x="155" y="116" z="7" dir="0"/>
+
+<npc name="Bounty Master" x="193" y="41" z="7" dir="0"/>
+
+---------------Choas city------------------
+
+
+<npc name="Mad" x="148" y="45" z="7" dir="0"/>
+<npc name="Mad" x="143" y="50" z="7" dir="0"/>
+<npc name="Mad" x="172" y="45" z="7" dir="0"/>
+<npc name="Mad" x="179" y="46" z="7" dir="0"/>
+<npc name="Mad" x="170" y="70" z="7" dir="0"/>
+<npc name="Mad" x="153" y="108" z="7" dir="0"/>
+
+<npc name="Dark Rodo" x="120" y="45" z="6" dir="0"/>
+<npc name="Dark Rodo" x="120" y="54" z="6" dir="0"/>
+<npc name="Dark Rodo" x="146" y="113" z="7" dir="0"/>
+
+<npc name="Dufi" x="148" y="64" z="7" dir="0"/>
+<npc name="Dufi" x="148" y="71" z="7" dir="0"/>
+<npc name="Dufi" x="165" y="71" z="7" dir="0"/>
+<npc name="Dufi" x="165" y="64" z="7" dir="0"/>
+<npc name="Dufi" x="150" y="118" z="7" dir="0"/>
+
+<npc name="Seller" x="126" y="63" z="7" dir="0"/>
+<npc name="Seller" x="148" y="109" z="7" dir="0"/>
+
+<npc name="Pirate Jack" x="194" y="45" z="7" dir="0"/>
+<npc name="Pirate Jack" x="154" y="111" z="7" dir="0"/>
+
+<npc name="Lector" x="121" y="49" z="7" dir="0"/>
+<npc name="Lector" x="162" y="109" z="7" dir="0"/>
+
+<npc name="Perac" x="129" y="65" z="6" dir="0"/>
+<npc name="Perac" x="161" y="112" z="7" dir="0"/>
+
+<npc name="Guild Master" x="119" y="46" z="5" dir="0"/>
+<npc name="Guild Master" x="160" y="120" z="7" dir="0"/>
+
+
+<npc name="Obi" x="146" y="121" z="7" dir="0"/>
+
+
+
+<npc name="Dagor" x="190" y="36" z="7" dir="0"/>
+<npc name="Dagor" x="157" y="121" z="7" dir="0"/>
+
+
+
+<npc name="Fargum" x="172" y="64" z="7" dir="0"/>
+
+
+
+
+<npc name="GM Shopmaster" x="194" y="22" z="7" dir="0"/>
+<npc name="GM Shopmaster" x="193" y="22" z="7" dir="0"/>
+<npc name="GM Shopmaster" x="192" y="22" z="7" dir="0"/>
+
+
+
+---------------Garden Grove--------------
+
+
+<npc name="Mad" x="139" y="168" z="7" dir="0"/>
+<npc name="Mad" x="131" y="171" z="7" dir="0"/>
+
+<npc name="Dark Rodo" x="113" y="167" z="7" dir="0"/>
+
+<npc name="Dufi" x="105" y="174" z="7" dir="0"/>
+
+<npc name="Seller" x="121" y="168" z="7" dir="0"/>
+
+<npc name="Pirate Jack" x="126" y="195" z="7" dir="0"/>
+
+<npc name="Lector" x="107" y="193" z="7" dir="0"/>
+
+<npc name="Perac" x="104" y="183" z="7" dir="0"/>
+
+<npc name="Obi" x="145" y="246" z="7" dir="0"/>
+
+
+<npc name="Dagor" x="142" y="196" z="7" dir="0"/>
+
+<npc name="GG Citizen" x="153" y="172" z="7" dir="0"/>
+
+<npc name="Fargum" x="112" y="210" z="7" dir="0"/>
+
+
+
+
+--------------Iceland-----------------
+
+
+<npc name="Mad" x="272" y="46" z="7" dir="0"/>
+
+<npc name="Dark Rodo" x="274" y="51" z="5" dir="0"/>
+<npc name="Dark Rodo" x="275" y="43" z="7" dir="0"/>
+
+<npc name="Dufi" x="294" y="52" z="7" dir="0"/>
+
+<npc name="Seller" x="274" y="43" z="6" dir="0"/>
+
+<npc name="Pirate Jack" x="272" y="47" z="6" dir="0"/>
+
+
+
+<npc name="Fargum" x="286" y="52" z="7" dir="0"/>
+
+
+
+
+-------------Desert---------------
+
+
+<npc name="Mad" x="205" y="71" z="7" dir="0"/>
+
+<npc name="Dark Rodo" x="208" y="75" z="7" dir="0"/>
+
+<npc name="Seller" x="208" y="80" z="7" dir="0"/>
+
+
+
+
+---------------ancient city----------------
+
+
+<npc name="Mad" x="442" y="89" z="7" dir="0"/>
+<npc name="Mad" x="515" y="89" z="7" dir="0"/>
+<npc name="Mad" x="515" y="129" z="7" dir="0"/>
+<npc name="Mad" x="456" y="145" z="7" dir="0"/>
+
+<npc name="Dark Rodo" x="442" y="135" z="7" dir="0"/>
+<npc name="Dark Rodo" x="450" y="75" z="7" dir="0"/>
+<npc name="Dark Rodo" x="505" y="75" z="7" dir="0"/>
+<npc name="Dark Rodo" x="507" y="145" z="7" dir="0"/>
+
+<npc name="Dufi" x="442" y="135" z="6" dir="0"/>
+<npc name="Dufi" x="453" y="75" z="6" dir="0"/>
+<npc name="Dufi" x="515" y="86" z="6" dir="0"/>
+<npc name="Dufi" x="515" y="134" z="6" dir="0"/>
+
+<npc name="Seller" x="442" y="131" z="7" dir="0"/>
+<npc name="Seller" x="456" y="75" z="7" dir="0"/>
+<npc name="Seller" x="501" y="75" z="7" dir="0"/>
+<npc name="Seller" x="501" y="145" z="7" dir="0"/>
+
+<npc name="Pirate Jack" x="442" y="141" z="7" dir="0"/>
+<npc name="Pirate Jack" x="444" y="75" z="7" dir="0"/>
+<npc name="Pirate Jack" x="511" y="75" z="7" dir="0"/>
+<npc name="Pirate Jack" x="513" y="145" z="7" dir="0"/>
+
+<npc name="Lector" x="446" y="145" z="7" dir="0"/>
+<npc name="Lector" x="442" y="77" z="7" dir="0"/>
+<npc name="Lector" x="515" y="77" z="7" dir="0"/>
+<npc name="Lector" x="515" y="141" z="7" dir="0"/>
+
+<npc name="Perac" x="450" y="145" z="7" dir="0"/>
+<npc name="Perac" x="442" y="83" z="7" dir="0"/>
+<npc name="Perac" x="515" y="83" z="7" dir="0"/>
+<npc name="Perac" x="515" y="135" z="7" dir="0"/>
+
+<npc name="Guild Master" x="450" y="145" z="6" dir="0"/>
+<npc name="Guild Master" x="442" y="83" z="6" dir="0"/>
+<npc name="Guild Master" x="507" y="75" z="6" dir="0"/>
+<npc name="Guild Master" x="507" y="145" z="6" dir="0"/>
+
+<npc name="Obi" x="442" y="144" z="6" dir="0"/>
+<npc name="Obi" x="442" y="76" z="6" dir="0"/>
+<npc name="Obi" x="514" y="75" z="6" dir="0"/>
+<npc name="Obi" x="515" y="144" z="6" dir="0"/>
+
+
+<npc name="Dagor" x="442" y="139" z="6" dir="0"/>
+<npc name="Dagor" x="448" y="75" z="6" dir="0"/>
+<npc name="Dagor" x="515" y="81" z="6" dir="0"/>
+<npc name="Dagor" x="515" y="139" z="6" dir="0"/>
+
+<npc name="Ancient Citizen" x="479" y="51" z="6" dir="0"/>
+
+<npc name="Fargum" x="499" y="198" z="6" dir="0"/>
+
+
+---------Golgotha City--------
+
+
+<npc name="Mad" x="495" y="294" z="7" dir="0"/>
+
+<npc name="Dark Rodo" x="494" y="295" z="6" dir="0"/>
+<npc name="Dark Rodo" x="503" y="296" z="6" dir="0"/>
+
+<npc name="Dufi" x="484" y="309" z="7" dir="0"/>
+<npc name="Dufi" x="489" y="304" z="7" dir="0"/>
+
+<npc name="Seller" x="472" y="295" z="7" dir="0"/>
+
+<npc name="Pirate Jack" x="524" y="318" z="7" dir="0"/>
+<npc name="Pirate Jack" x="524" y="313" z="7" dir="0"/>
+
+<npc name="Lector" x="501" y="294" z="7" dir="0"/>
+
+<npc name="Perac" x="472" y="303" z="7" dir="0"/>
+
+<npc name="Obi" x="524" y="314" z="7" dir="0"/>
+
+
+<npc name="Dagor" x="522" y="319" z="6" dir="0"/>
+
+<npc name="Guild Master" x="472" y="295" z="6" dir="0"/>
+
+
+
+-----Suburb Mansion 2 PHA1-----
+
+<npc name="Mad" x="29" y="21" z="15" dir="0"/>
+<npc name="Dark Rodo" x="27" y="21" z="15" dir="0"/>
+<npc name="Dufi" x="25" y="21" z="15" dir="0"/>
+<npc name="Seller" x="23" y="21" z="15" dir="0"/>
+<npc name="Pirate Jack" x="21" y="22" z="15" dir="0"/>
+<npc name="Obi" x="21" y="24" z="15" dir="0"/>
+<npc name="Dagor" x="21" y="26" z="15" dir="0"/>
+
+
+-----Bronx 13 PHA2--------
+
+<npc name="Mad" x="234" y="27" z="15" dir="0"/>
+<npc name="Dark Rodo" x="232" y="27" z="15" dir="0"/>
+<npc name="Dufi" x="230" y="27" z="15" dir="0"/>
+<npc name="Seller" x="228" y="27" z="15" dir="0"/>
+<npc name="Pirate Jack" x="226" y="28" z="15" dir="0"/>
+<npc name="Obi" x="226" y="30" z="15" dir="0"/>
+<npc name="Dagor" x="226" y="32" z="15" dir="0"/>
+
+
+------PHA3--------
+
+<npc name="Mad" x="297" y="61" z="15" dir="0"/>
+<npc name="Dark Rodo" x="295" y="61" z="15" dir="0"/>
+<npc name="Dufi" x="293" y="61" z="15" dir="0"/>
+<npc name="Seller" x="291" y="61" z="15" dir="0"/>
+<npc name="Pirate Jack" x="289" y="62" z="15" dir="0"/>
+<npc name="Obi" x="289" y="64" z="15" dir="0"/>
+<npc name="Dagor" x="289" y="66" z="15" dir="0"/>
+
+
+-------PHA4-----
+
+<npc name="Mad" x="377" y="22" z="15" dir="0"/>
+<npc name="Dark Rodo" x="375" y="22" z="15" dir="0"/>
+<npc name="Dufi" x="373" y="22" z="15" dir="0"/>
+<npc name="Seller" x="371" y="22" z="15" dir="0"/>
+<npc name="Pirate Jack" x="369" y="23" z="15" dir="0"/>
+<npc name="Obi" x="369" y="25" z="15" dir="0"/>
+<npc name="Dagor" x="369" y="27" z="15" dir="0"/>
+
+
+-------PHA5-------
+
+<npc name="Mad" x="442" y="23" z="15" dir="0"/>
+<npc name="Dark Rodo" x="440" y="23" z="15" dir="0"/>
+<npc name="Dufi" x="438" y="23" z="15" dir="0"/>
+<npc name="Seller" x="436" y="23" z="15" dir="0"/>
+<npc name="Pirate Jack" x="434" y="24" z="15" dir="0"/>
+<npc name="Obi" x="434" y="26" z="15" dir="0"/>
+<npc name="Dagor" x="434" y="28" z="15" dir="0"/>
+
+
+-------Ac Man 8 PHA6-------
+<npc name="Mad" x="513" y="42" z="15" dir="0"/>
+<npc name="Dark Rodo" x="513" y="40" z="15" dir="0"/>
+<npc name="Dufi" x="513" y="38" z="15" dir="0"/>
+<npc name="Seller" x="515" y="37" z="15" dir="0"/>
+<npc name="Pirate Jack" x="517" y="37" z="15" dir="0"/>
+<npc name="Obi" x="519" y="37" z="15" dir="0"/>
+<npc name="Dagor" x="521" y="37" z="15" dir="0"/>
+<npc name="Guild Master" x="542" y="189" z="5" dir="0"/>
+
+-------PHA7-------
+
+<npc name="Mad" x="593" y="30" z="15" dir="0"/>
+<npc name="Dark Rodo" x="593" y="28" z="15" dir="0"/>
+<npc name="Dufi" x="593" y="26" z="15" dir="0"/>
+<npc name="Seller" x="595" y="25" z="15" dir="0"/>
+<npc name="Pirate Jack" x="597" y="25" z="15" dir="0"/>
+<npc name="Obi" x="599" y="25" z="15" dir="0"/>
+<npc name="Dagor" x="601" y="25" z="15" dir="0"/>
+
+
+-------PHA8-------
+
+<npc name="Mad" x="658" y="42" z="15" dir="0"/>
+<npc name="Dark Rodo" x="658" y="40" z="15" dir="0"/>
+<npc name="Dufi" x="658" y="38" z="15" dir="0"/>
+<npc name="Seller" x="660" y="37" z="15" dir="0"/>
+<npc name="Pirate Jack" x="662" y="37" z="15" dir="0"/>
+<npc name="Obi" x="664" y="37" z="15" dir="0"/>
+<npc name="Dagor" x="666" y="37" z="15" dir="0"/>
+
+
+
+
+-------PHA9-------
+
+<npc name="Mad" x="734" y="26" z="15" dir="0"/>
+<npc name="Dark Rodo" x="734" y="24" z="15" dir="0"/>
+<npc name="Dufi" x="734" y="22" z="15" dir="0"/>
+<npc name="Seller" x="736" y="21" z="15" dir="0"/>
+<npc name="Pirate Jack" x="738" y="21" z="15" dir="0"/>
+<npc name="Obi" x="740" y="21" z="15" dir="0"/>
+<npc name="Dagor" x="742" y="21" z="15" dir="0"/>
+
+
+
+-------PHA10-------
+
+<npc name="Mad" x="807" y="27" z="15" dir="0"/>
+<npc name="Dark Rodo" x="805" y="27" z="15" dir="0"/>
+<npc name="Dufi" x="803" y="27" z="15" dir="0"/>
+<npc name="Seller" x="801" y="27" z="15" dir="0"/>
+<npc name="Pirate Jack" x="799" y="28" z="15" dir="0"/>
+<npc name="Obi" x="799" y="30" z="15" dir="0"/>
+<npc name="Dagor" x="799" y="32" z="15" dir="0"/>
+
+
+
+
+
+-------PHA11-------
+
+<npc name="Mad" x="862" y="30" z="15" dir="0"/>
+<npc name="Dark Rodo" x="862" y="28" z="15" dir="0"/>
+<npc name="Dufi" x="862" y="26" z="15" dir="0"/>
+<npc name="Seller" x="864" y="25" z="15" dir="0"/>
+<npc name="Pirate Jack" x="866" y="25" z="15" dir="0"/>
+<npc name="Obi" x="868" y="25" z="15" dir="0"/>
+<npc name="Dagor" x="870" y="25" z="15" dir="0"/>
+
+
+
+
+
+-------PHA12-------
+
+<npc name="Mad" x="933" y="29" z="15" dir="0"/>
+<npc name="Dark Rodo" x="933" y="27" z="15" dir="0"/>
+<npc name="Dufi" x="933" y="25" z="15" dir="0"/>
+<npc name="Seller" x="935" y="24" z="15" dir="0"/>
+<npc name="Pirate Jack" x="937" y="24" z="15" dir="0"/>
+<npc name="Obi" x="939" y="24" z="15" dir="0"/>
+<npc name="Dagor" x="941" y="24" z="15" dir="0"/>
+
+
+
+
+-------PHA13-------
+
+<npc name="Mad" x="982" y="46" z="15" dir="0"/>
+<npc name="Dark Rodo" x="982" y="44" z="15" dir="0"/>
+<npc name="Dufi" x="982" y="42" z="15" dir="0"/>
+<npc name="Seller" x="984" y="41" z="15" dir="0"/>
+<npc name="Pirate Jack" x="986" y="41" z="15" dir="0"/>
+<npc name="Obi" x="988" y="41" z="15" dir="0"/>
+<npc name="Dagor" x="990" y="41" z="15" dir="0"/>
+
+
+
+
+
+---Bronx 13---
+
+<npc name="Dark Rodo" x="463" y="485" z="7" dir="0"/>
+<npc name="Pirate Jack" x="468" y="489" z="7" dir="0"/>
+<npc name="Dufi" x="473" y="485" z="7" dir="0"/>
+<npc name="Guild Master" x="466" y="480" z="7" dir="0"/>
+
+---------pha 14------------------------
+<npc name="Mad" x="1035" y="51" z="15" dir="0"/>
+<npc name="Dark Rodo" x="1035" y="49" z="15" dir="0"/>
+<npc name="Dufi" x="1035" y="47" z="15" dir="0"/>
+<npc name="Seller" x="1037" y="46" z="15" dir="0"/>
+<npc name="Pirate Jack" x="1039" y="46" z="15" dir="0"/>
+<npc name="Obi" x="1041" y="46" z="15" dir="0"/>
+<npc name="Dagor" x="1043" y="46" z="15" dir="0"/>
+
+---------pha 15------------------------
+<npc name="Mad" x="1081" y="48" z="15" dir="0"/>
+<npc name="Dark Rodo" x="1081" y="46" z="15" dir="0"/>
+<npc name="Dufi" x="1081" y="44" z="15" dir="0"/>
+<npc name="Seller" x="1083" y="43" z="15" dir="0"/>
+<npc name="Pirate Jack" x="1085" y="43" z="15" dir="0"/>
+<npc name="Obi" x="1087" y="43" z="15" dir="0"/>
+<npc name="Dagor" x="1089" y="43" z="15" dir="0"/>
+
+
+---------pha 16------------------------
+<npc name="Mad" x="1150" y="41" z="15" dir="0"/>
+<npc name="Dark Rodo" x="1150" y="43" z="15" dir="0"/>
+
+<npc name="Seller" x="1152" y="40" z="15" dir="0"/>
+<npc name="Pirate Jack" x="1154" y="40" z="15" dir="0"/>
+<npc name="Obi" x="1156" y="40" z="15" dir="0"/>
+<npc name="Dagor" x="1158" y="40" z="15" dir="0"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</npclist>

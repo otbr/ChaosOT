@@ -1,0 +1,394 @@
+<?xml version="1.0"?>
+<readables>
+
+
+<readable x="156" y="64" z="5" text="Has Life gotten too difficult lately? Too depressing perhaps? Pull the lever my child. Death awaits you with open arms."/>
+
+
+
+
+
+
+<readable x="132" y="51" z="7" text="A legend Statue of Insomniac. He Defended chaos city against the oblivion bosses and their minions, paving the way for the destruction of the magical barriers and allowing passage of mortals into the halls of Oblivion."/>
+<readable x="132" y="48" z="7" text="A legend Statue of Exavier Two. He Defended chaos city against the oblivion bosses and their minions, paving the way for the destruction of the magical barriers and allowing passage of mortals into the halls of Oblivion."/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<readable x="4838" y="59" z="7" text="Ancient City"/>
+<readable x="153" y="44" z="7" text="Low Level Hunting Area"/>
+
+<readable x="4840" y="59" z="7" text="Chaos City"/>
+<readable x="483" y="56" z="7" text="Custom Hunting Areas"/>
+
+<readable x="476" y="55" z="9" text="Chaos City"/>
+<readable x="477" y="55" z="9" text="Garden Grove"/>
+<readable x="478" y="55" z="9" text="Ancient City"/>
+<readable x="481" y="49" z="9" text="Custom Hunting portals, Top is easiest, Bottom is hardest"/>
+<readable x="482" y="49" z="9" text="Everyone hunting here deserves to be here There will be no telling anyone to leave."/>
+<readable x="153" y="174" z="6" text="Custom Hunting Areas."/>
+<readable x="283" y="45" z="6" text="Custom Hunting Areas."/>
+
+----------------ancient city-----------------
+<readable x="693" y="297" z="8" text="Do not come down here we are working! Tresspassers will be obliterated!!"/>
+<readable x="745" y="115" z="7" text="To enter the halls of oblivion place an item of value on the alter and throw the switch!"/>
+<readable x="588" y="133" z="7" text="High level hunting area keep out!"/>
+<readable x="488" y="72" z="7" text="One of the most powerful monsters in ChaosOT. Keep out!"/>
+
+
+----Ancient Palace----
+
+<readable x="395" y="180" z="5" text="Chaos City"/>
+<readable x="404" y="180" z="5" text="Garden Grove"/>
+<readable x="395" y="182" z="5" text="Iceland"/>
+<readable x="404" y="182" z="5" text="Ancient City"/>
+<readable x="398" y="182" z="5" text="Custom Hunt Portals"/>
+<readable x="401" y="182" z="5" text="GM Shop"/>
+
+
+
+<readable x="477" y="51" z="7" text="Chaos City"/>
+<readable x="478" y="51" z="7" text="Garden Grove"/>
+<readable x="479" y="51" z="7" text="Iceland"/>
+<readable x="474" y="52" z="7" text="The Roads"/>
+<readable x="474" y="53" z="7" text="Battle Grounds"/>
+<readable x="474" y="54" z="7" text="Heaven"/>
+<readable x="474" y="55" z="7" text="Hell"/>
+<readable x="474" y="56" z="7" text="Petrified"/>
+
+<readable x="4977" y="22" z="7" text="Enchanted Forest"/>
+
+<readable x="4913" y="131" z="7" text="Ancient Ruins"/>
+
+
+<readable x="464" y="190" z="6" text="Ancient city"/>
+<readable x="466" y="190" z="6" text="Hard/Easy road"/>
+<readable x="468" y="190" z="6" text="Battlegrounds"/>
+<readable x="470" y="190" z="6" text="Heaven"/>
+<readable x="472" y="190" z="6" text="Hell"/>
+<readable x="474" y="190" z="6" text="Iceland"/>
+<readable x="476" y="190" z="6" text="Chaos city"/>
+<readable x="478" y="190" z="6" text="Haunted mansion"/>
+<readable x="480" y="190" z="6" text="Garden Grove"/>
+<readable x="482" y="190" z="6" text="Private hunt top"/>
+<readable x="484" y="190" z="6" text="Private hunt bottom"/>
+<readable x="486" y="190" z="6" text="Mining"/>
+
+
+
+<readable x="553" y="64" z="7" text="Battlegrounds"/>
+<readable x="555" y="64" z="7" text="Heaven"/>
+<readable x="557" y="64" z="7" text="Hell"/>
+<readable x="553" y="61" z="7" text="Iceland"/>
+<readable x="555" y="61" z="7" text="Chaos city"/>
+<readable x="557" y="61" z="7" text="Garden Grove"/>
+
+
+
+<readable x="540" y="33" z="5" text="Battlegrounds"/>
+<readable x="542" y="33" z="5" text="Heaven"/>
+<readable x="544" y="33" z="5" text="Hell"/>
+<readable x="540" y="30" z="5" text="Iceland"/>
+<readable x="542" y="30" z="5" text="Chaos city"/>
+<readable x="544" y="30" z="5" text="Garden Grove"/>
+<readable x="544" y="32" z="5" text="Private hunting"/>
+
+
+
+<readable x="151" y="88" z="3" text="Private hunting 2"/>
+<readable x="156" y="88" z="3" text="Ancient city"/>
+
+
+
+<readable x="399" y="107" z="5" text="Hard/Easy road"/>
+<readable x="401" y="107" z="5" text="Battlegrounds"/>
+<readable x="397" y="97" z="5" text="Heaven"/>
+<readable x="399" y="97" z="5" text="Hell"/>
+<readable x="393" y="101" z="5" text="Iceland"/>
+<readable x="393" y="103" z="5" text="Chaos city"/>
+<readable x="393" y="105" z="5" text="Garden Grove"/>
+<readable x="397" y="107" z="5" text="Private hunt/Training"/>
+<readable x="401" y="97" z="5" text="Petrified Area"/>
+
+
+
+
+<readable x="553" y="82" z="6" text="Hard/Easy road"/>
+<readable x="551" y="82" z="6" text="Battlegrounds"/>
+<readable x="553" y="91" z="6" text="Heaven"/>
+<readable x="551" y="91" z="6" text="Hell"/>
+<readable x="549" y="87" z="6" text="Iceland"/>
+<readable x="549" y="85" z="6" text="Chaos city"/>
+<readable x="549" y="83" z="6" text="Garden Grove"/>
+<readable x="549" y="89" z="6" text="Petrified Area"/>
+
+
+
+<readable x="394" y="48" z="6" text="Chaos City"/>
+<readable x="398" y="48" z="6" text="Garden Grove"/>
+<readable x="396" y="48" z="6" text="Iceland"/>
+<readable x="398" y="59" z="6" text="The Roads"/>
+<readable x="400" y="59" z="6" text="Battle Grounds"/>
+<readable x="400" y="48" z="6" text="Heaven"/>
+<readable x="400" y="50" z="6" text="Hell"/>
+<readable x="396" y="59" z="6" text="Petrified Hunt"/>
+<readable x="394" y="59" z="6" text="Private Hunt"/>
+
+
+
+<readable x="159" y="36" z="7" text="depots and shops"/>
+<readable x="131" y="53" z="7" text="depots are upstairs"/>
+<readable x="292" y="51" z="7" text="Postmaster Desciest, Seeking halp!."/>
+<readable x="120" y="60" z="7" text="Tower Of Power, Mid level hunting grounds.."/>
+<readable x="154" y="55" z="7" text="New Berserker spells. Ultimate Exori , tarp , prayer , star, Sonar"/>
+<readable x="155" y="55" z="7" text="New Cleric spells. Sonar , Bleed , exura life , prayer"/>
+<readable x="156" y="55" z="7" text="New Paladin spells. Sonar , Bleed , prayer , bubble, Shockwave"/>
+<readable x="157" y="55" z="7" text="New Warlock spells. Sonar , Bleed, prayer , action"/>
+
+<readable x="163" y="55" z="7" text="Prayer spells. 2kmana- Prayer of conviction. 4k-mana prayer of power. 6k-mana prayer of courage. 8k-mana prayer of chaos. 10k-mana Prayer of Honor, Prayer of Ethos(Sorcerer only, Yeah it's that good)."/>
+<readable x="164" y="55" z="7" text="Life Fluids heal for 10k, seller has them! Manarunes at rodo"/>
+<readable x="165" y="55" z="7" text="Rules: Afk training is a do at your own risk staff wont punish, but if a player kills you and we hear you cry we might do the same."/>
+<readable x="166" y="55" z="7" text="GM Death, GM Chaos, GM Nova, GM ANNIHILATION, GM CARNAGE. (Councellors - Legacy Hero, Krazie Red, Feared) Thats the only staff for now."/>
+
+<readable x="176" y="62" z="7" text="Game Room"/>
+
+<readable x="162" y="60" z="7" text="This is the prison, you will not temple rune out. If you chose to, then you will be deleted. I know it is harsh but there are rules. Wait for your release by a gm."/>
+
+<readable x="159" y="46" z="8" text="Custom Hunting Areas."/>
+<readable x="131" y="54" z="7" text="Training Chixenz."/>
+
+<readable x="129" y="54" z="7" text="Housing Complex."/>
+
+
+<readable x="194" y="29" z="7" text="Character Customization Shop. Read the signs, use tokens with the GM's and have your order in mind. NO VIOLENCE WILL BE TOLERATED HERE."/>
+
+
+<readable x="191" y="59" z="7" text="To the customization shop."/>
+
+
+<readable x="194" y="59" z="7" text="To Iceland Town."/>
+
+<readable x="154" y="116" z="7" text="Town Square Central, Chaos City."/>
+
+<readable x="191" y="21" z="7" text="Welcome to the customization shop. Read all the blackboards for information."/>
+
+
+
+
+
+<readable x="192" y="21" z="7" text="A Gm must be running this shop for you to be helped. If a gm is not present here, do not ask the gm to come."/>
+
+
+
+<readable x="193" y="21" z="7" text="We are currently offering 4 diffrent character customizations. Custom Character looks. Bonus Mana. Bonus Health. Vocation Promotions."/>
+
+<readable x="194" y="21" z="7" text="Custom looks!! Look like any monster you want to....forever! Simply pay the nice gm 36million, in 1 backpack full of crystal. Follow gm instructions (NO REFUNDS)"/>
+
+
+<readable x="195" y="21" z="7" text="Permanently add bonus mana to your character at the rate of 1,000 mana for 10million."/>
+
+<readable x="196" y="21" z="7" text="Permanently add bonus health to your character at the rate of 1,000 health for 10million."/>
+
+<readable x="197" y="21" z="7" text="Promotions are 1 million. They are permanent."/>
+
+<readable x="198" y="21" z="7" text="For Future updates."/>
+
+
+<readable x="127" y="43" z="7" text="North for heaven, South for hell. Advanced hunting areas, not for noobs!."/>
+
+
+<readable x="132" y="45" z="7" text="Noobie hunting area."/>
+
+<readable x="148" y="55" z="7" text="Dedicated to the brave hero's who fought in the first invasion against Necropharus and his minions!"/>
+
+<readable x="150" y="55" z="7" text="King Satan,Hobo Bob,Mytant,Dienoob,Skill Master,Skull Basher,Seal Clubber,Krazie Red,Iced Mewelup,Hoppy,Druid,Chaotic Fetus,Lone Moon,Herculeze,and Exovius Archer."/>
+
+
+
+
+
+
+
+<readable x="86" y="92" z="7" text="The Badlands."/>
+
+
+
+-----ancient man 7----
+
+
+<readable x="478" y="30" z="7" text="Chaos City."/>
+<readable x="478" y="32" z="7" text="Iceland."/>
+<readable x="478" y="34" z="7" text="Garden Grove."/>
+<readable x="476" y="28" z="7" text="Custom Hunt Portals."/>
+<readable x="478" y="28" z="7" text="GM Shop."/>
+
+-----ancient man 8-------
+
+<readable x="517" y="191" z="5" text="Chaos City."/>
+<readable x="517" y="187" z="5" text="Private Hunt."/>
+<readable x="518" y="186" z="5" text="Ancient City."/>
+<readable x="520" y="186" z="5" text="Garden Grove."/>
+<readable x="518" y="192" z="5" text="Iceland."/>
+<readable x="520" y="192" z="5" text="Golgotha."/>
+
+
+----Sky Mansion-----
+
+<readable x="116" y="91" z="4" text="Petrified Area."/>
+<readable x="118" y="91" z="4" text="Battlegrounds."/>
+<readable x="120" y="91" z="4" text="Hell."/>
+<readable x="122" y="91" z="4" text="Heaven"/>
+<readable x="128" y="91" z="4" text="Hard/Easy road."/>
+<readable x="130" y="91" z="4" text="Garden Grove."/>
+<readable x="132" y="91" z="4" text="Chaos City."/>
+<readable x="134" y="91" z="4" text="Private Hunting Area."/>
+---------2---
+
+<readable x="151" y="97" z="3" text="Private hunting."/>
+<readable x="156" y="97" z="3" text="Training and portals."/>
+<readable x="155" y="123" z="15" text="Chaos city."/>
+<readable x="155" y="125" z="15" text="Iceland city."/>
+<readable x="155" y="127" z="15" text="Garden Grove."/>
+<readable x="155" y="129" z="15" text="Battlegrounds."/>
+<readable x="155" y="131" z="15" text="Hard/easy road."/>
+<readable x="155" y="133" z="15" text="Heaven."/>
+<readable x="155" y="135" z="15" text="Hell."/>
+
+------------3----
+
+<readable x="172" y="74" z="3" text="Private hunting."/>
+
+
+
+---------Sky Guildhall----
+<readable x="103" y="55" z="2" text="Private Hunting Area."/>
+
+
+
+
+
+
+--------Bronx 13----
+
+<readable x="467" y="478" z="7" text="Chill Spot"/>
+<readable x="473" y="481" z="7" text="Chaos City."/>
+<readable x="473" y="483" z="7" text="Garden Grove."/>
+<readable x="473" y="486" z="7" text="Ancient City."/>
+<readable x="473" y="488" z="7" text="Iceland>."/>
+
+
+
+
+
+--------------chaos palace 5-------
+
+<readable x="84" y="47" z="7" text="Private Hunting."/>
+<readable x="114" y="103" z="6" text="Private Hunting."/>
+--------------------------------
+
+
+
+<readable x="147" y="259" z="7" text="Chaos City."/>
+
+
+<readable x="147" y="261" z="7" text="Iceland"/>
+
+<readable x="147" y="263" z="7" text="Garden Grove"/>
+
+<readable x="147" y="265" z="7" text="Heaven"/>
+
+<readable x="147" y="267" z="7" text="Hell"/>
+
+<readable x="147" y="269" z="7" text="Boss Loop"/>
+
+<readable x="147" y="271" z="7" text="The Soul"/>
+
+
+
+
+
+
+<readable x="158" y="127" z="7" text="The Empire Of The Vampires."/>
+
+
+
+<readable x="124" y="98" z="7" text="The Path Of Chaos."/>
+--gg signs
+
+<readable x="150" y="176" z="7" text="Welcome to the chaos server and to garden grove, go upstairs for more information."/>
+
+
+<readable x="121" y="239" z="7" text="Battle Grounds"/>
+
+<readable x="121" y="222" z="7" text="To The Black Pearl"/>
+
+
+
+
+
+<readable x="153" y="62" z="6" text="Altar of Crafting"/>
+<readable x="160" y="62" z="6" text="Altar of Crafting"/>
+
+<readable x="193" y="39" z="6" text="The ladder is for jail breaking. The bed is for waiting. If you jail break you probably will die. Use at your own risk."/>
+
+
+
+----Desert Guild Hall---
+
+<readable x="205" y="122" z="4" text="Chaos City"/>
+<readable x="200" y="121" z="4" text="Garden Grove"/>
+<readable x="203" y="122" z="4" text="Iceland"/>
+<readable x="201" y="122" z="4" text="Ancient City"/>
+<readable x="200" y="117" z="4" text="The Roads"/>
+<readable x="200" y="119" z="4" text="Battle Grounds"/>
+<readable x="201" y="115" z="4" text="Hell"/>
+<readable x="200" y="115" z="4" text="Heaven"/>
+
+
+----gg mansion 6---
+
+<readable x="187" y="241" z="7" text="Chaos City"/>
+<readable x="187" y="245" z="7" text="Garden Grove"/>
+<readable x="187" y="239" z="7" text="Iceland"/>
+<readable x="187" y="243" z="7" text="Ancient City"/>
+<readable x="199" y="245" z="7" text="The Roads"/>
+<readable x="199" y="239" z="7" text="Battle Grounds"/>
+<readable x="199" y="243" z="7" text="Hell"/>
+<readable x="199" y="241" z="7" text="Heaven"/>
+<readable x="192" y="246" z="7" text="Custom Hunt"/>
+
+----gg mansion 7----
+
+
+------Golgotha City-------
+
+<readable x="505" y="281" z="7" text="Memorial Park....The lost souls of the past"/>
+<readable x="502" y="306" z="7" text="To the Graveyard and the Mausoleum"/>
+<readable x="486" y="281" z="7" text="Welcome to Golgotha City"/>
+
+<readable x="484" y="279" z="8" text="Chaos City"/>
+<readable x="488" y="279" z="8" text="Garden Grove"/>
+<readable x="484" y="282" z="8" text="Ancient City"/>
+<readable x="488" y="282" z="8" text="Iceland"/>
+<readable x="479" y="55" z="9" text="Golgotha City"/>
+
+
+------OB Challenge------
+
+<readable x="411" y="248" z="10" text="On the left you see where you arrive. (Powerful items in the end of the quest)"/>
+<readable x="415" y="248" z="10" text="Back to Chaos City"/>
+<readable x="447" y="257" z="9" text="Into the saferoom with teleports."/>
+
+
+
+</readables>

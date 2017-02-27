@@ -1,0 +1,216 @@
+-------mana runes-------
+ <action itemid="2297" script="manarunes.lua" />
+ <action itemid="2298" script="manarunes.lua" />
+ <action itemid="2299" script="manarunes.lua" />
+
+-----gm shop----
+<action uniqueid="7010" script="gmshop1.lua" />
+<action uniqueid="7011" script="gmshop2.lua" />
+<action uniqueid="7012" script="gmshop3.lua" />
+<action uniqueid="7013" script="gmshop4.lua" />
+
+<action itemid="1947" script="rwitems.lua" />
+<action itemid="1954" script="rwitems.lua" />
+<action itemid="2597" script="rwitems.lua" />
+<action itemid="2598" script="rwitems.lua" />
+<action itemid="2599" script="rwitems.lua" />
+<action itemid="1948" script="rwitems.lua" />
+<action itemid="1949" script="rwitems.lua" />
+<action itemid="1950" script="rwitems.lua" />
+<action itemid="1951" script="rwitems.lua" />
+<action itemid="1952" script="rwitems.lua" />
+<action itemid="1953" script="rwitems.lua" />
+<action itemid="1955" script="rwitems.lua" />
+<action itemid="1956" script="rwitems.lua" />
+<action itemid="1957" script="rwitems.lua" />
+<action itemid="1958" script="rwitems.lua" />
+<action itemid="1959" script="rwitems.lua" />
+<action itemid="1960" script="rwitems.lua" />
+<action itemid="1961" script="rwitems.lua" />
+<action itemid="1962" script="rwitems.lua" />
+<action itemid="1963" script="rwitems.lua" />
+<action itemid="1964" script="rwitems.lua" />
+<action itemid="1965" script="rwitems.lua" />
+<action itemid="1966" script="rwitems.lua" />
+<action itemid="1967" script="rwitems.lua" />
+<action itemid="1968" script="rwitems.lua" />
+<action itemid="1969" script="rwitems.lua" />
+<action itemid="1970" script="rwitems.lua" />
+<action itemid="1971" script="rwitems.lua" />
+<action itemid="1972" script="rwitems.lua" />
+<action itemid="1973" script="rwitems.lua" />
+<action itemid="1974" script="rwitems.lua" />
+<action itemid="1975" script="rwitems.lua" />
+<action itemid="1976" script="rwitems.lua" />
+<action itemid="1977" script="rwitems.lua" />
+<action itemid="1978" script="rwitems.lua" />
+<action itemid="1979" script="rwitems.lua" />
+<action itemid="1980" script="rwitems.lua" />
+<action itemid="1981" script="rwitems.lua" />
+<action itemid="1982" script="rwitems.lua" />
+<action itemid="1983" script="rwitems.lua" />
+<action itemid="1984" script="rwitems.lua" />
+<action itemid="1985" script="rwitems.lua" />
+<action itemid="1986" script="rwitems.lua" />
+
+
+
+
+
+-------mana runes-------
+ <action itemid="2297" script="manarunes.lua" />
+ <action itemid="2298" script="manarunes.lua" />
+ <action itemid="2299" script="manarunes.lua" />
+
+-----gm shop----
+<action uniqueid="7010" script="gmshop1.lua" />
+<action uniqueid="7011" script="gmshop2.lua" />
+<action uniqueid="7012" script="gmshop3.lua" />
+<action uniqueid="7013" script="gmshop4.lua" />
+
+<action itemid="2070" script="music.lua" /> --flute--
+<action itemid="2372" script="music.lua" /> --lyre--
+<action itemid="2332" script="music.lua" /> --post horn--
+<action itemid="2367" script="music.lua" /> --drum--
+<action itemid="2368" script="music.lua" /> --simple fanfare--
+<action itemid="2076" script="music.lua" /> --fanfare--
+<action itemid="2332" script="music.lua" /> --horn--
+<action itemid="2079" script="music.lua" /> --horn--
+<action itemid="2370" script="music.lua" /> --lute--
+<action itemid="2373" script="music.lua" /> --panpipes--
+<action itemid="2080" script="music.lua" /> --piano--
+<action itemid="2081" script="music.lua" /> --piano--
+<action itemid="2082" script="music.lua" /> --piano--
+<action itemid="2083" script="music.lua" /> --piano--
+<action itemid="2084" script="music.lua" /> --harp--
+<action itemid="2085" script="music.lua" /> --harp--
+<action itemid="2077" script="music.lua" /> --royal fanfare--
+<action itemid="2364" script="music.lua" /> --post horn--
+<action itemid="2371" script="music.lua" /> --post horn--
+<action itemid="2078" script="music.lua" /> --post horn--
+<action itemid="2075" script="music.lua" /> --simple fanfare--
+<action itemid="2074" script="music.lua" /> --panpipes--
+<action itemid="2373" script="music.lua" /> --flute--
+<action itemid="2072" script="music.lua" /> --lute--
+<action itemid="2073" script="music.lua" /> --drum--
+<action itemid="2071" script="music.lua" /> --lyre--
+<action itemid="2074" script="music.lua" /> --flute--
+
+
+
+
+<!-- destroying furniture with weapons -->
+<action itemid="2376" script="destroy.lua" />
+<action itemid="2377" script="destroy.lua" />
+<action itemid="2378" script="destroy.lua" />
+<action itemid="2379" script="destroy.lua" />
+<action itemid="2380" script="destroy.lua" />
+<action itemid="2381" script="destroy.lua" />
+<action itemid="2382" script="destroy.lua" />
+
+<action itemid="2384" script="destroy.lua" />
+<action itemid="2385" script="destroy.lua" />
+<action itemid="2386" script="destroy.lua" />
+<action itemid="2387" script="destroy.lua" />
+<action itemid="2388" script="destroy.lua" />
+<action itemid="2389" script="destroy.lua" />
+
+
+<action itemid="2394" script="destroy.lua" />
+<action itemid="2395" script="destroy.lua" />
+<action itemid="2397" script="destroy.lua" />
+<action itemid="2398" script="destroy.lua" />
+<action itemid="2399" script="destroy.lua" />
+
+<action itemid="2401" script="destroy.lua" />
+<action itemid="2402" script="destroy.lua" />
+<action itemid="2403" script="destroy.lua" />
+<action itemid="2404" script="destroy.lua" />
+<action itemid="2406" script="destroy.lua" />
+<action itemid="2408" script="destroy.lua" />
+<action itemid="2410" script="destroy.lua" />
+<action itemid="2411" script="destroy.lua" />
+<action itemid="2412" script="destroy.lua" />
+<action itemid="2413" script="destroy.lua" />
+<action itemid="2416" script="destroy.lua" />
+<action itemid="2417" script="destroy.lua" />
+<action itemid="2419" script="destroy.lua" />
+<action itemid="2420" script="destroy.lua" />
+<action itemid="2422" script="destroy.lua" />
+<action itemid="2423" script="destroy.lua" />
+<action itemid="2424" script="destroy.lua" />
+<action itemid="2425" script="destroy.lua" />
+<action itemid="2426" script="destroy.lua" />
+<action itemid="2428" script="destroy.lua" />
+<action itemid="2429" script="destroy.lua" />
+<action itemid="2433" script="destroy.lua" />
+<action itemid="2435" script="destroy.lua" />
+<action itemid="2439" script="destroy.lua" />
+<action itemid="2440" script="destroy.lua" />
+<action itemid="2441" script="destroy.lua" />
+<action itemid="2442" script="destroy.lua" />
+<action itemid="2443" script="destroy.lua" />
+<action itemid="2444" script="destroy.lua" />
+<action itemid="2446" script="destroy.lua" />
+<action itemid="2447" script="destroy.lua" />
+<action itemid="2448" script="destroy.lua" />
+<action itemid="2449" script="destroy.lua" />
+<action itemid="2450" script="destroy.lua" />
+<action itemid="2452" script="destroy.lua" />
+<action itemid="2453" script="destroy.lua" />
+
+<action uniqueid="7002" script="steerwheel.lua" />
+<action uniqueid="7003" script="steerwheel.lua" />
+
+<action uniqueid="7001" script="arenalever.lua" />
+
+<action itemid="3901" script="constructionkits.lua" />
+<action itemid="3902" script="constructionkits.lua" />
+<action itemid="3903" script="constructionkits.lua" />
+<action itemid="3904" script="constructionkits.lua" />
+<action itemid="3905" script="constructionkits.lua" />
+<action itemid="3906" script="constructionkits.lua" />
+<action itemid="3907" script="constructionkits.lua" />
+<action itemid="3908" script="constructionkits.lua" />
+<action itemid="3909" script="constructionkits.lua" />
+<action itemid="3910" script="constructionkits.lua" />
+<action itemid="3911" script="constructionkits.lua" />
+<action itemid="3912" script="constructionkits.lua" />
+<action itemid="3913" script="constructionkits.lua" />
+<action itemid="3914" script="constructionkits.lua" />
+<action itemid="3915" script="constructionkits.lua" />
+<action itemid="3916" script="constructionkits.lua" />
+<action itemid="3917" script="constructionkits.lua" />
+<action itemid="3918" script="constructionkits.lua" />
+<action itemid="3919" script="constructionkits.lua" />
+<action itemid="3920" script="constructionkits.lua" />
+<action itemid="3921" script="constructionkits.lua" />
+<action itemid="3922" script="constructionkits.lua" />
+<action itemid="3923" script="constructionkits.lua" />
+<action itemid="3924" script="constructionkits.lua" />
+<action itemid="3925" script="constructionkits.lua" />
+<action itemid="3926" script="constructionkits.lua" />
+<action itemid="3927" script="constructionkits.lua" />
+<action itemid="3928" script="constructionkits.lua" />
+<action itemid="3929" script="constructionkits.lua" />
+<action itemid="3930" script="constructionkits.lua" />
+<action itemid="3931" script="constructionkits.lua" />
+<action itemid="3932" script="constructionkits.lua" />
+<action itemid="3933" script="constructionkits.lua" />
+<action itemid="3934" script="constructionkits.lua" />
+<action itemid="3935" script="constructionkits.lua" />
+<action itemid="3936" script="constructionkits.lua" />
+<action itemid="3937" script="constructionkits.lua" />
+<action itemid="3938" script="constructionkits.lua" />
+
+
+<action itemid="2114" script="trans_inc.lua" /> --pig bank--
+
+
+<action itemid="1873" script="trans_inc.lua" /> --cuckoo clock--
+<action itemid="1874" script="trans_dec.lua" /> --cuckoo clock--
+
+<action itemid="1875" script="trans_inc.lua" /> --cuckoo clock--
+<action itemid="1876" script="trans_dec.lua" /> --cuckoo clock--
+
+

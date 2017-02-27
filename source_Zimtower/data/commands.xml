@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<!-- commands are described in readme.txt -->
+   
+<commands>
+<command cmd="/a"			access="5" />
+<command cmd="/B"			access="1" /> --Broadcast a message--
+<command cmd="/freeze"			access="5" />
+<command cmd="/unfreeze"		access="5" />
+<command cmd="/b"			access="5" /> --ban a player(?)--
+<command cmd="/c"			access="2" /> --Teleport someone next to you--
+<command cmd="/i"			access="5" />
+<command cmd="/m"			access="3" />
+<command cmd="/q"			access="3" />
+<command cmd="/reload"		access="4" /> 		--actions, commands, config, monsters, spells--
+<command cmd="/s"			access="4" />
+<command cmd="/t"			access="2" /> --Teleport to Temple--
+<command cmd="/z"			access="2" />
+<command cmd="/goto"		access="2" /> 		--Teleport to a player--
+<command cmd="/info"		access="5" />
+<command cmd="/closeserver"	access="5" />
+<command cmd="/makesay"	access="5" /> 			--make someone say something--
+<command cmd="/openserver"	access="5" />
+<command cmd="/getonline"	access="2" />
+<command cmd="/summon"		access="5" />
+<command cmd="/kick"		access="5" />
+<command cmd="/outfit"		access="5" /> 		--Change outfit--
+<command cmd="/owned"		access="5" /> 		--Don't know--
+<command cmd="/health"          access="5" />
+<command cmd="/mana"            access="5" />
+<command cmd="/shanti"			access="1" />
+<command cmd="/up"			access="3" />
+<command cmd="/down"		access="3" />
+<command cmd="/invisible"	access="5" />
+<command cmd="/owner"		access="5" /> 		--Set new owner by (/owner Player) or reset house owner to Nobody by (/owner)--
+<command cmd="/send"		access="5" />
+<command cmd="/pvp"			access="5" />
+<command cmd="/ban"			access="5" />
+<command cmd="/save"		access="2" />
+<command cmd="/pos"			access="2" />
+<command cmd="/shutdown"	access="5" />
+<command cmd="/max"			access="5" />
+<command cmd="/clean"		access="5" />
+<command cmd="/premmy"		access="5" />
+<command cmd="/promote"		access="5" />
+<command cmd="/private"		access="5" />
+-- New 1337s OT Commands
+<command cmd="/access"		access="5" /> 		--give access--
+<command cmd="/voc"		access="5" /> 		--change someone's vocation--
+<command cmd="/bc"		access="2" />
+<command cmd="/speed"		access="3" />
+<command cmd="/addskill"		access="5" /> 		--addskill to player(?)--
+<command cmd="/check"		access="2" />
+<command cmd="/tp"		access="3" /> 		--Teleporting with Mouse Right-click ON or OFF--
+<command cmd="/noskull"		access="50" />
+<command cmd="/redskull"		access="5" />
+<command cmd="/whiteskull"		access="5" />
+<command cmd="/yellowskull"		access="5" />
+<command cmd="/gender"		access="5" />
+<command cmd="!commands"		access="1" />
+<command cmd="/startfile"		access="5" />
+<command cmd="/killfile"		access="5" />
+<command cmd="/tmp"		access="2" />
+<command cmd="/checkall"		access="3" />
+<command cmd="/debugpackets" access="2" />
+<command cmd="/stopdebug" access="2" />
+<command cmd="/addbounty" access="5" />
+<command cmd="/clearbank" access="5" />
+<command cmd="/saveguilds" access="3" />
+<command cmd="/savehouses" access="3" />
+<command cmd="/saveplayers" access="3" />
+<command cmd="!exp"			access="0" />
+<command cmd="!mana"		access="0" />
+<command cmd="!comment"		access="0" />
+<command cmd="!report"		access="0" />
+<command cmd="!online"		access="0" />
+<command cmd="!house"		access="0" />
+<command cmd="!frags"		access="0" />
+<command cmd="!uptime"		access="0" />
+<command cmd="!secondchance"		access="0" />
+<command cmd="!crit"		access="0" />
+<command cmd="!evasion"		access="0" />
+<command cmd="!counterstrike"		access="0" />
+<command cmd="!bleed"		access="0" />
+<command cmd="!aura"		access="5" />
+<command cmd="/drunk"		access="5" />
+<command cmd="/nodrunk"		access="5" />
+<command cmd="/drunkmode"		access="5" />
+<command cmd="/bcdamage"		access="5" />
+<command cmd="!premmy"		access="2" />
+<command cmd="/bs"		access="5" />
+<command cmd="/sp"		access="5" />
+<command cmd="/forceshutdownakacrash"		access="5" />
+<command cmd="!placepet"		access="5" />
+<command cmd="/setpet"		access="5" />
+<command cmd="/namepet"		access="5" />
+<command cmd="/lvlpet"		access="5" />
+<command cmd="/mlpet"		access="5" />
+<command cmd="/activatepet"		access="5" />
+<command cmd="/spg"		access="5" />
+</commands>

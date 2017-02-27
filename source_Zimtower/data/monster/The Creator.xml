@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<monster name="The Creator" level="900" maglevel="900" experience="5000000" pushable="0" armor="129" defense="131" canpushitems="1" staticattack="50" changetarget="200" speed="340">
+	<health now="5000000" max="5000000"/>
+	<look type="130" head="0" body="114" legs="114" feet="114" corpse="3128"/>
+	<combat targetdistance="1" runonhealth="10000"/>
+
+<attacks>
+		
+	
+	<attack type="instant" name="star" exhaustion="1000" cycleticks="1000" probability="90"/>
+	
+	
+	
+	
+	<attack type="rune" name="sudden death" exhaustion="1000" cycleticks="8000" probability="90"/>
+	
+	
+	
+
+	<attack type="rune" name="quarksd" cycleticks="1000" probability="1000"/>
+
+
+
+
+</attacks>	
+<defenses>
+	<defense immunity="energy"/>
+	<defense immunity="fire"/>
+	
+	<defense immunity="drunk"/>
+	<defense immunity="invisible"/>
+</defenses>
+
+<voices>
+	<voice sentence="..."/>
+</voices>
+
+<loot>
+ 	<item id="2404" chance="1500"/>
+	<item id="2449" chance="1500"/>
+	<item id="2435" chance="1500"/>
+        <item id="3965" chance="1500"/>
+	<item id="2450" chance="1500"/>
+	<item id="2453" chance="1500"/>
+	<item id="2468" chance="1500"/>
+	<item id="2164" chance="1500"/>
+	
+	<item id="2399" countmax="100" chance1="13333" chancemax="0"/>
+
+	<item id="2270" chance="3000"/>
+	
+
+
+
+	<item id="2474" chance="1250"/>
+	<item id="2195" chance="1250"/>
+	<item id="2656" chance="1250"/>
+	<item id="3983" chance="1250"/>
+
+	<item id="2160" countmax="100" chance1="13333" chancemax="0"/>
+	<item id="2197" chance="6000"/>
+	
+
+        <item id="2529" chance="500"/>
+	<item id="3965" chance="500"/>
+	<item id="2450" chance="5000"/>
+	<item id="2453" chance="500"/>
+	<item id="2468" chance="500"/>
+	<item id="2164" chance="500"/>
+	
+	<item id="2399" countmax="100" chance1="3333" chancemax="0"/>
+
+	<item id="2474" chance="500"/>
+	<item id="2195" chance="500"/>
+	<item id="2656" chance="500"/>
+	<item id="3983" chance="500"/>
+	
+	
+	
+</loot>
+
+<summons maxSummons="0">
+
+ 	
+	
+</summons>
+
+
+
+</monster>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<monster name="Ancient Khalem" level="32000" maglevel="3000" experience="6500000" pushable="0" armor="2" defense="2" canpushitems="1" staticattack="50" changetarget="200" speed="260">
+	<health now="172000000" max="172000000"/>
+	<look type="48" head="20" body="30" legs="40" feet="50" corpse="2154"/>
+	<combat targetdistance="1" runonhealth="0"/>
+	<blood color="86" effect="9" splash="255"/>
+
+<attacks>
+	<attack type="rune" name="heavy magic missile" exhaustion="1000" cycleticks="1000" probability="100"/>
+
+<attack type="rune" name="explosion" exhaustion="1000" cycleticks="1000" probability="100"/>
+	
+</attacks>
+
+<defenses>
+	
+	
+</defenses>
+
+<voices>
+	<voice sentence="If you pass this test you will have a chance of 1 on 10000 to defest Azwraith"/>
+</voices>
+
+<loot>
+ 	
+</loot>
+</monster>

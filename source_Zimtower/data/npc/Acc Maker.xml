@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<npc name="Acc Maker" script="data/npc/scripts/accmaker.lua" access="0">
+	<look type="116" head="78" body="71" legs="82" feet="114"/>
+</npc>

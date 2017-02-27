@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<monster name="Evil" level="125000" maglevel="199000" experience="30000000000" pushable="0" armor="312" defense="322" canpushitems="1" staticattack="50" changetarget="200" speed="180">
+	<health now="150000000" max="150000000"/>
+	<look type="13" head="20" body="30" legs="40" feet="50" corpse="3069"/>
+	<combat targetdistance="1" runonhealth="0"/>
+
+<attacks>
+<attack type="melee" mindamage="9500000" maxdamage="20000000" probability="100"/>
+
+<attack type="rune" name="priestess_manadrain" exhaustion="0" cycleticks="1000" probability="100"/>
+
+<attack type="instant" name="exura life" exhaustion="0" cycleticks="1000" probability="100"/>
+
+<attack type="instant" name="ultimate exori" exhaustion="0" cycleticks="1000" probability="60"/>
+
+<attack type="rune" name="heavy magic missile" exhaustion="0" cycleticks="20" probability="100"/>
+
+
+
+</attacks>
+
+<defenses>
+
+</defenses>
+
+<voices>
+	<voice sentence="I am oblivion"/>
+	<voice sentence="ARGGHH"/>
+	<voice sentence="Die pathetic human"/>
+	<voice sentence="Baaaaaahhhh, Owned!"/>
+	<voice sentence="Just die!"/>
+</voices>
+
+<loot>
+ 	
+ <item id="2281" chance="99000"/>
+
+
+ 
+</loot>
+</monster>

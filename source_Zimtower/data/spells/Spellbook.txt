@@ -1,0 +1,160 @@
+Spells on our OT
+  Admin Chaos on Thu Mar 18, 2010 1:04 am
+
+
+
+~All Vocations~
+
+Adori Wrath - ML 1 - 1,000,000 Mana (1m)
+
+Manaburn One - ml 1 - 20,000 mana (20k)
+Manaburn Two - ml 1 - 50,000 mana (50k)
+Manaburn Three - ml 1 - 100,000 mana (100k)
+Manaburn Four - ml 1 - 250,000 mana (250k)
+Manaburn Five - ml 1 - 500,000 mana (500k)
+
+Soul Strike "name - ml 15 - 50,000 mana (50k)
+
+Death Strike - ml 10 - 750,000 mana (750k)
+Chaos Strike - ml 10 - 750,000 mana (750k)
+Nova Strike - ml 10 - 750,000 mana (750k)
+Aegis Strike - ml 10 - 3 mana
+
+Sonar - ml 15 - 500 mana
+
+Utevo Lux - ml 0 - 20 mana
+Utevo Gran Lux - ml 3 - 60 mana
+
+Exura - ml 1 - 25 mana
+Exura Vita - ml 8 - 80 mana
+
+Utani Hur - ml 4 - 60 mana
+
+Exevo Pan - ml 0 - 30 mana
+
+
+
+
+~Sorcerers (Demonic Souls)~
+
+Confusion Strike - ml 150 - 2,000 mana (2k)
+Ray of Pain - ml 150 - 2,000 mana (2k)
+Rampage - ml 175 - 2,000 mana (2k)
+Phoenix Strike - ml 200 - 2,000 mana (2k)
+Exevo Gran Mas Vis - ml 80 - 1,000 mana (1k)
+
+Action - ml 10 - 150 mana
+Bleed - ml 10 - 1,500 mana (1.5k)
+
+Utevo Vis Lux - ml 12 - 140 mana
+
+Exevo Gran Vis Lux - ml 14 - 200 mana
+Exevo Flam Hur - ml 7 - 80 mana
+Exevo Mort Hur - ml 20 - 250 mana
+Exori Flam - ml 3 - 20 mana
+Exori Mort - ml 2 - 20 mana
+Exori Vis - ml 3 - 20 mana
+
+Utamo Vita - ml 4 - 50 mana
+Utani Gran Hur - ml 8 - 100 mana
+
+Adori - ml 1 - 40 mana
+Adori Blank - ml 3 - 60 mana
+Adevo Grav Pox - ml 1 - 50 mana
+Adori Gran - ml 3 - 70 mana
+Adevo Grav Flam - ml 3 - 60 mana
+Adevo Grav Vis - ml 5 - 80 mana
+Adevo Mas Flam - ml 9 - 150 mana
+Adevo Mas Hur - ml 12 - 180 mana
+Adevo Mas Vis - ml 18 - 250 mana
+Adori Vita Vis - ml 25 - 220 mana
+Adori Gran Dec - ml 3 - 140 mana
+Adevo Mas Hur Dec - ml 12 - 600 mana
+Adori Vita Vis Dec - ml 25 - 2,200 mana (2.2k)
+
+
+
+
+~Druids (Holy Templars)~
+
+Love - ml 150 - 2,000 mana (2k)
+Ray of Pain - ml 150 - 2,000 mana (2k)
+Rampage - ml 175 - 2,000 mana (2k)
+Phoenix Strike - ml 200 - 2,000 mana (2k)
+Exevo Gran Mas Vis - ml 80 - 1,000 mana (1k)
+
+Action - ml 10 - 150 mana
+Bleed - ml 10 - 1,500 mana (1.5k)
+
+Utevo Vis Lux - ml 12 - 140 mana
+
+Exori Flam - ml 3 - 20 mana
+Exori Mort - ml 2 - 20 mana
+Exori Vis - ml 3 - 20 mana
+
+Exura Gran Mas Res - ml 19 - 150 mana
+Exura Sio "name - ml 7 - 50 mana
+
+Utamo Vita - ml 4 - 50 mana
+Utani Gran Hur - ml 8 - 100 mana
+
+Adori - ml 1 - 40 mana
+Adori Blank - ml 3 - 60 mana
+Adevo Grav Pox - ml 1 - 50 mana
+Adori Gran - ml 3 - 70 mana
+Adevo Grav Flam - ml 3 - 60 mana
+Adevo Grav Vis - ml 5 - 80 mana
+Adevo Mas Flam - ml 9 - 150 mana
+Adevo Mas Hur - ml 12 - 180 mana
+Adori Gran Dec - ml 3 - 140 mana
+Adevo Mas Hur Dec - ml 12 - 600 mana
+Adura Vita - ml 11 - 100 mana
+Adura Vita Dec - ml 11 - 1,000 mana (1k)
+
+
+
+~Paladins (Snipers)~
+
+Blitz - ml 40 - 1,000 mana (1k)
+Ultimate Death - ml 40 - 1,500 mana (1.5k)
+Bubble - ml 32 - 2,000 mana (2k)
+Shockwave - ml 35 - 2,000 mana (2k)
+Killing Spree - ml 45 - 2,000 mana (2k)
+Hellz Death - ml 50 - 2,000 mana (2k)
+
+Bleed - ml 10 - 1,500 mana (1.5k)
+
+Utamo Vita - ml 4 - 50 mana
+
+Exevo Con - ml 2 - 40 mana
+Exevo Con Mort - ml 6 - 70 mana
+Exevo Con Pox - ml 5 - 70 mana
+Exevo Con Flam - ml 10 - 1,200 mana (1.2k)
+Exevo Con Vis - ml 14 - 1,000 mana (1k)
+
+Adori - ml 1 - 40 mana
+Adori Blank - ml 3 - 60 mana
+Adori Gran - ml 3 - 70 mana
+Adori Flam - ml 5 - 60 mana
+Adori Gran Dec - ml 3 - 140 mana
+
+
+
+
+~Knights (Warlords)~
+
+Fury - ml 15 - 1,000 mana (1k)
+Rage - ml 15 - 1,000 mana (1k)
+Smite - ml 18 - 1,500 mana (1.5k)
+Die Bitch - ml 24 - 2,000 mana (2k)
+Wrath of Chaos - ml 27 - 2,000 mana (2k)
+Star - ml 12 - 1,000 mana (1k)
+Ultimate Exori - ml 8 - 300 mana
+Exori - ml 5 - 100 mana
+
+
+And there you have it. All the vocations, with all known working spells.
+
+Regards,
+
+~Chaos aka Jason~

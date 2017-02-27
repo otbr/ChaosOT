@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<npc name="Santa" script="data/npc/scripts/santa.lua" access="5">	<look type="160" head="0" body="94" legs="0" feet="114"/>
+</npc>

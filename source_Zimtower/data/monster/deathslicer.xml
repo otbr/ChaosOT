@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<monster name="Doom Spire" level="20" maglevel="30" experience="10000000000" pushable="1" armor="989" defense="990" canpushitems="1" staticattack="20000" changetarget="100000" speed="999">
+	<health now="50000000" max="50000000"/>
+	<look type="102" head="20" body="30" legs="40" feet="50" corpse="2453"/>
+	<combat targetdistance="1" runonhealth="0"/>
+	<blood color="86" effect="9" splash="255"/>
+
+<attacks>
+	<attack type="melee" mindamage="100000" maxdamage="100000" probability="100"/>
+	<attack type="melee" mindamage="23100" maxdamage="50000" cycleticks="0" probability="100"/>
+<attack type="melee" mindamage="23100" maxdamage="50000" cycleticks="0" probability="100"/>
+<attack type="melee" mindamage="23100" maxdamage="50000" cycleticks="0" probability="100"/>
+<attack type="melee" mindamage="23100" maxdamage="50000" cycleticks="0" probability="100"/>
+<attack type="melee" mindamage="23100" maxdamage="50000" cycleticks="0" probability="100"/>
+<attack type="melee" mindamage="23100" maxdamage="50000" cycleticks="0" probability="100"/>
+<attack type="melee" mindamage="23100" maxdamage="50000" cycleticks="0" probability="100"/>
+</attacks>
+
+<defenses>
+	<defense immunity="physical"/>
+	<defense immunity="energy"/>
+	<defense immunity="fire"/>
+	<defense immunity="poison"/>
+	<defense immunity="paralyze"/>
+	<defense immunity="invisible"/>
+	<defense immunity="drunk"/>
+</defenses>
+
+<loot>
+ 	
+</loot>
+</monster>
